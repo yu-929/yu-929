@@ -18,7 +18,7 @@
   - ☁️ **Cloudflare 生态**：IP优选、节点优化、Workers/Tunnel 配置、分流规则调试
   - 🌐 **Preferred-IP**：依托河南移动本地网络实测、整理优选可用IP资源，定期更新
   - 📺 **TVBOX**：接口对接、模板美化、部署运维与实用脚本分享
-- 📍 坐标：**CHINA**
+- 📍 坐标：**中国**
 - ⚡ 日常折腾：网络优化、流媒体工具、自动化脚本编写
 
 ---
@@ -42,21 +42,6 @@
 | :--- | :--- |
 | [Preferred-IP](https://github.com/yu-929/Preferred-IP) | 筛选、整理优选可用IP资源，依托河南移动本地网络实测，定期更新IP列表 |
 | [yu-929](https://github.com/yu-929/yu-929) | 个人主页仓库，分享Cloudflare、IP优选、TVBOX相关内容 |
-
----
-
-### 📊 GitHub 数据
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yu-929&theme=transparent&show_icons=true&hide_border=true&include_all_commits=true" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-929&layout=compact&theme=transparent&hide_border=true" width="330">
-</div>
-
----
-
-### 🔥 动态贡献图
-<div align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yu-929&bg_color=ffffff&color=4479A1&line=4479A1&point=00ccff&hide_border=true">
-</div>
 
 ---
 
